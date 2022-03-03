@@ -1,7 +1,13 @@
+<center>
+ 
 ### Hi there 👋
+ 
+</center>
+__________________________________________________________________
 
 
-Here are some ideas to get you started:
+
+<ul>
 
 - 🔭 I’m currently working on getting my 
 - 🌱 I’m currently learning ...
@@ -11,8 +17,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nahteyarg@icloud.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
+</ul>
+
+__________________________________________________________________
+
+<center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KafLad)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KafLad)](https://github.com/anuraghazra/github-readme-stats)
+
+</center>
 
