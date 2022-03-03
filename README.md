@@ -1,8 +1,9 @@
-<center>
+<h1 align="center">
  
 ### Hi there, Ethan Here!
  
-</center>
+</h1>
+
 <hr />
 
 
@@ -18,12 +19,13 @@
 
 <hr />
 
-<center>
+<p align="center">
 
 ### Stats (for all you numbers people)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KafLad)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KafLad)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+
+</p>
 
