@@ -1,18 +1,8 @@
-<<<<<<< HEAD
 <html>
 
 <h1 align="center">
     Hi There, Ethan Here!
 </h1>
-=======
-<center>
- 
-### Hi there, Ethan Here!
- 
-</center>
-
-<hr />
->>>>>>> 4f4452237a1254d0614f171e95cf6bd8cc8a52e2
 
 <hr />
 
@@ -45,11 +35,5 @@
 
 
 
-<<<<<<< HEAD
-=======
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KafLad)](https://github.com/anuraghazra/github-readme-stats)
- 
-</center>
->>>>>>> 4f4452237a1254d0614f171e95cf6bd8cc8a52e2
 
 </html>
