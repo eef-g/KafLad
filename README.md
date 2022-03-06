@@ -10,7 +10,7 @@
 <ul>
 <li> 🔭 I’m currently working on getting my BS in Computer Science [Graduate Spring 2024] </li>
 
-<li> 🌱 I’m currently learning SQL  </li>
+<li> 🌱 I’m currently learning C++ and C# </li>
 
 <li> 💬 Ask me about anything python </li>
 
