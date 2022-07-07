@@ -27,13 +27,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KafLad&count_private=true&theme=gruvbox&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 </h1>
-
-<h1 align = "center">
-
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KafLad&count_private=true&show_icons=true&theme=gruvbox&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-</h1>
-
-
-
-
 </html>
