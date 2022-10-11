@@ -9,7 +9,7 @@
 <ul>
 <li> 🔭 I’m working towards my BS in Computer Science! I graduate Spring of 2024. </li>
 
-<li> 🌱 I’m currently learning Java and C++ </li>
+<li> 🌱 I’m currently learning C++ </li>
     
 <li> 📫 How to reach me: nahteyarg@icloud.com </li>
 
