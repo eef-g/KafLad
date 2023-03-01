@@ -16,6 +16,7 @@
 <hr />
 <h1 align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&count_private=true&theme=gruvbox&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&theme=gruvbox&hide_border=true&hide=issues,contribs&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| ------------- | ------------- |
 </h1>
 </html>
