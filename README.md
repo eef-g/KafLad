@@ -9,6 +9,7 @@
     <li> Connect with me: 
         <span>
             <p> <a href="mailto: nahteyarg@icloud.com">Send Email</a></p>
+            <p> <a href="https://www.linkedin.com/in/ethan-gray-42aab81b5/" target="_blank" rel="noreferrer">LinkedIn</a></p>
         </span>
     </li>
 </ul>
