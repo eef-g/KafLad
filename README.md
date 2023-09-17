@@ -6,11 +6,9 @@
     <li>I’m currently learning <b>Rust, Leptos, and LLMs</b></li>
     <li>A cool game I made in Windows Forms<br/>
         <a href="https://github.com/eef-g/Dungeoneer"><img src="https://gh-card.dev/repos/eef-g/Dungeoneer.svg"></a></li>
-    <li> Connect with me: 
-        <span>
-            <p> <a href="mailto: nahteyarg@icloud.com">Send Email</a></p>
-            <p> <a href="https://www.linkedin.com/in/ethan-gray-42aab81b5/" target="_blank" rel="noreferrer">LinkedIn</a></p>
-        </span>
+    <li> Connect with me: <br/>
+            <a href="mailto: nahteyarg@icloud.com"><img src="https://lordicon.com/icons/wired/flat/144-envelope-mail-notification.svg" alt="Email me" width="40" height="40"/></a>
+            <a href="https://www.linkedin.com/in/ethan-gray-42aab81b5/" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
     </li>
 </ul>
 
