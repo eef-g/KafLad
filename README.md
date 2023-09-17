@@ -3,7 +3,7 @@
 <h2 align="center"> About Me</h2>
 
 <ul>
-    <li>I’m currently learning <b>Rust, Leptos, and LLMs</b></li>
+    <li>I’m currently learning <b>Rust, GO, and LLMs</b></li>
     <li>A cool game I made in Windows Forms<br/>
         <a href="https://github.com/eef-g/Dungeoneer"><img src="https://gh-card.dev/repos/eef-g/Dungeoneer.svg"></a></li>
     <li> Connect with me: <br/>
@@ -22,8 +22,8 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </a>
 </p>
 <p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+    <a href="https://go.dev/" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" width="40" height="40"/> </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://rustacean.net/assets/rustacean-flat-noshadow.svg" alt="rust" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
