@@ -1,17 +1,15 @@
 <h1 align="center">Hi There, Ethan Here!<br/> Welcome to my GitHub</h1>
 
-<h2 align="center"> About Me</h2>
+- I'm currently learning **Rust, Go, and LLMs**
+- Project showcase:
 
-<ul>
-    <li>I’m currently learning <b>Rust, GO, and LLMs</b></li>
-    <li>A cool game I made in Windows Forms<br/>
-        <a href="https://github.com/eef-g/Dungeoneer"><img src="https://gh-card.dev/repos/eef-g/Dungeoneer.svg"></a></li>
-    <li> Connect with me: <br/>
-            <a href="mailto: nahteyarg@icloud.com"><img src="https://lordicon.com/icons/wired/flat/144-envelope-mail-notification.svg" alt="Email me" width="40" height="40"/></a>
-            <a href="https://www.linkedin.com/in/ethan-gray-42aab81b5/" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
-    </li>
-</ul>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=fabd2f\&icon_color=fe8019\&text_color=8ec07c\&bg_color=282828)](https://github.com/eef-g-archive/Dungeoneer)
 
+<h2 align="center"> Connect with me</h2>
+<p align="center">
+    <a href="mailto: nahteyarg@icloud.com"><img src="https://lordicon.com/icons/wired/flat/144-envelope-mail-notification.svg" alt="Email me" width="40" height="40"/></a>
+    <a href="https://www.linkedin.com/in/ethan-gray-42aab81b5/" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
+</p>
 
 <hr />
 <h3 align="center">Languages and Tools:</h3>
@@ -30,5 +28,5 @@
 <h1 align="center">
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&theme=gruvbox&hide_border=true&hide=issues,contribs&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=donut&theme=gruvbox&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&theme=gruvbox&hide_border=true&hide=issues&count_private=true" alt="Ethan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=donut&theme=gruvbox&hide_border=true" alt="Most used languages"/></a> |
 | ------------- | ------------- |
