@@ -27,6 +27,6 @@
 </p>
 <h1 align="center">
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&theme=gruvbox&hide_border=true&hide=issues&count_private=true" alt="Ethan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=donut&theme=gruvbox&hide_border=true" alt="Most used languages"/></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&theme=gruvbox&hide_border=true&hide=issues&count_private=true" alt="Ethan's github stats" /></a>
+| <p align="center"><p>School project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g-archive&layout=donut&theme=gruvbox&hide_border=true" alt="School project languages"/></a></p> | <p align="center"><p>Personal project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=donut&theme=gruvbox&hide_border=true" alt="Personal project languages"/></a></p> |
 | ------------- | ------------- |
