@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, Ethan Here!<br/> Welcome to my GitHub</h1>
 
-- I'm currently learning **Rust, Go, and LLMs**
+- I'm currently learning **Rust, Go, and ELC project architecture**
 - Project showcase:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=fabd2f\&icon_color=fe8019\&text_color=8ec07c\&bg_color=282828)](https://github.com/eef-g-archive/Dungeoneer)
@@ -17,7 +17,7 @@
 <p align="center">
     <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="linux-mint" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </a>
+    <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" width="40" height="40"/> </a>
 </p>
 <p align="center">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
