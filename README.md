@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, Ethan Here!<br/> Welcome to my GitHub</h1>
 
-- I'm currently learning **Rust, Go, and ELC project architecture**
+- I'm currently learning **Bevy and ECS project architecture**
 - Project showcase:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=fabd2f\&icon_color=fe8019\&text_color=8ec07c\&bg_color=282828)](https://github.com/eef-g-archive/Dungeoneer)
