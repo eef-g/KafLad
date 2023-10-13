@@ -3,7 +3,8 @@
 - I'm currently learning **Bevy and ECS project architecture**
 - Project showcase:
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=fabd2f\&icon_color=fe8019\&text_color=8ec07c\&bg_color=282828)](https://github.com/eef-g-archive/Dungeoneer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=fabd2f\&icon_color=fe8019\&text_color=8ec07c\&bg_color=282828)](https://github.com/eef-g-archive/Dungeoneer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g&repo=the-caverns\&title_color=fabd2f\&icon_color=fe8019\&text_color=8ec07c\&bg_color=282828)](https://github.com/eef-g/the-caverns)
+
 
 <h2 align="center"> Connect with me</h2>
 <p align="center">
