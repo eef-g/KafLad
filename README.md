@@ -3,12 +3,12 @@
 - I'm currently learning **C++ and Raylib**
 - Project showcase:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=fabd2f\&icon_color=fe8019\&text_color=8ec07c\&bg_color=282828)](https://github.com/eef-g-archive/Dungeoneer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g&repo=the-caverns\&title_color=fabd2f\&icon_color=fe8019\&text_color=8ec07c\&bg_color=282828)](https://github.com/eef-g/the-caverns)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=f2d5cf\&icon_color=f2d5cf\&text_color=c6d0f5\&bg_color=232634)](https://github.com/eef-g-archive/Dungeoneer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g&repo=the-caverns\&title_color=f2d5cf\&icon_color=f2d5cf\&text_color=c6d0f5\&bg_color=232634)](https://github.com/eef-g/DOOM-Remake)
 
 
 <h2 align="center"> Connect with me</h2>
 <p align="center">
-    <a href="mailto: nahteyarg@icloud.com"><img src="https://lordicon.com/icons/wired/flat/144-envelope-mail-notification.svg" alt="Email me" width="40" height="40"/></a>
+    <a href="mailto: coding@eef-g.com"><img src="https://cdn.discordapp.com/attachments/1201605094433624084/1201605129569308712/mailto_icon.png?ex=65ca6cfb&is=65b7f7fb&hm=099bf8be1fe070f3e8967b1b2f8a23f7773c30a20d5105a3263e2f1e40016c80&" alt="Email me" width="40" height="40"/></a>
     <a href="https://www.linkedin.com/in/ethan-gray-42aab81b5/" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
@@ -16,8 +16,8 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-    <a href="https://endeavouros.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" alt="EndeavourOS" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> </a>
+    <a href="https://nixos.org/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/FBoXoc3z1QYFD0Tx-q_Mt0m7RIO3IGGQvQVxJmTgwfg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL05peE9TLnN2/Zw.svg" alt="NixOS" width="40" height="40"/> </a>
     <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" width="40" height="40"/> </a>
 </p>
 <p align="center">
@@ -28,6 +28,6 @@
 </p>
 <h1 align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&theme=gruvbox&hide_border=true&hide=issues&count_private=true" alt="Ethan's github stats" /></a>
-| <p align="center"><p>School project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g-archive&layout=donut&theme=gruvbox&hide_border=true" alt="School project languages"/></a></p> | <p align="center"><p>Personal project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=donut&theme=gruvbox&hide_border=true" alt="Personal project languages"/></a></p> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&hide_border=true&hide=issues&count_private=true&title_color=f2d5cf&icon_color=f2d5cf&text_color=c6d0f5&bg_color=232634" alt="Ethan's github stats" /></a>
+| <p align="center"><p>School project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g-archive&layout=donut&hide_border=true&title_color=f2d5cf&icon_color=f2d5cf&text_color=c6d0f5&bg_color=232634" alt="School project languages"/></a></p> | <p align="center"><p>Personal project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=donut&hide_border=true&title_color=f2d5cf&icon_color=f2d5cf&text_color=c6d0f5&bg_color=232634" alt="Personal project languages"/></a></p> |
 | ------------- | ------------- |
