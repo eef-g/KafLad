@@ -3,7 +3,7 @@
 - I'm currently learning **Java and LibGDX**
 - Project showcase:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=f2d5cf\&icon_color=f2d5cf\&text_color=c6d0f5\&bg_color=232634)](https://github.com/eef-g-archive/Dungeoneer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g&repo=the-caverns\&title_color=f2d5cf\&icon_color=f2d5cf\&text_color=c6d0f5\&bg_color=232634)](https://github.com/eef-g/DOOM-Remake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=b48ead\&icon_color=b48ead\&text_color=e5e9f0\&bg_color=3b4252)](https://github.com/eef-g-archive/Dungeoneer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g&repo=the-caverns\&title_color=b48ead\&icon_color=b48ead\&text_color=e5e9f0\&bg_color=3b4252)](https://github.com/eef-g/DOOM-Remake)
 
 
 <h2 align="center"> Connect with me</h2>
@@ -28,6 +28,6 @@
 </p>
 <h1 align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&hide_border=true&hide=issues&count_private=true&title_color=f2d5cf&icon_color=f2d5cf&text_color=c6d0f5&bg_color=232634" alt="Ethan's github stats" /></a>
-| <p align="center"><p>School project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g-archive&layout=donut&hide_border=true&title_color=f2d5cf&icon_color=f2d5cf&text_color=c6d0f5&bg_color=232634" alt="School project languages"/></a></p> | <p align="center"><p>Personal project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=donut&hide_border=true&title_color=f2d5cf&icon_color=f2d5cf&text_color=c6d0f5&bg_color=232634" alt="Personal project languages"/></a></p> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=nord" alt="Ethan's github stats" /></a>
+| <p align="center"><p>School project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g-archive&layout=donut&hide_border=true&title_color=b48ead&icon_color=b48ead&text_color=e5e9f0&bg_color=3b4252" alt="School project languages"/></a></p> | <p align="center"><p>Personal project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=donut&hide_border=true&title_color=b48ead&icon_color=b48ead&text_color=e5e9f0&bg_color=3b4252" alt="Personal project languages"/></a></p> |
 | ------------- | ------------- |
