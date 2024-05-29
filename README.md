@@ -8,7 +8,7 @@
 
 <h2 align="center"> Connect with me</h2>
 <p align="center">
-    <a href="mailto: ethgray@proton.me"><img src="https://cdn.discordapp.com/attachments/1201605094433624084/1201605129569308712/mailto_icon.png?ex=664659fb&is=6645087b&hm=aae1af3bc8409bd1eb508d21e50131cfaf4e50da6ec7974fdb76eed1666ed24d&" alt="Email me" width="40" height="40"/></a>
+    <a href="mailto: ethgray@proton.me"><img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn-1.webcatalog.io%2Fcatalog%2Fprotonmail%2Fprotonmail-icon.png&sp=1717001376Tf974180a03d8b3f80f5ad92c3887a0735b5e6358bacf32cce109f96a54dbb3a4" alt="Email me" width="40" height="40"/></a>
     <a href="https://www.linkedin.com/in/ethan-gray-42aab81b5/" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
