@@ -6,7 +6,7 @@
 * I graduated in 2024 with a **Bachelor's of Science** in **Computer Science**
 * I'm passionate about creating software that is useful or entertaining for people
 * I'm looking to get into **Software Engineering or Development**.
-* Feel free to see some of the work I've done on my ![portfolio](https://www.ethgray.com)
+* Feel free to see some of the work I've done on my [portfolio](https://www.ethgray.com)
 
 
 ## 🌐 Socials:
