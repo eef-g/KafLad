@@ -1,33 +1,30 @@
-<h1 align="center">Hi There, Ethan Here!<br/> Welcome to my GitHub</h1>
+<h1 align="center">Hi, I'm Ethan!</h1>
+<br>
+<br>
 
-- I'm currently learning **Java and LibGDX**
-- Project showcase:
+# 💫 About Me:
+* I graduated in 2024 with a **Bachelor's of Science** in **Computer Science**
+* I'm passionate about creating software that is useful or entertaining for people
+* I'm looking to get into **Software Engineering or Development**.
+* Feel free to see some of the work I've done on my ![portfolio](https://www.ethgray.com)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g-archive&repo=Dungeoneer\&title_color=b48ead\&icon_color=b48ead\&text_color=e5e9f0\&bg_color=3b4252)](https://github.com/eef-g-archive/Dungeoneer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eef-g&repo=the-caverns\&title_color=b48ead\&icon_color=b48ead\&text_color=e5e9f0\&bg_color=3b4252)](https://github.com/eef-g/DOOM-Remake)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nahteyarg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eef-g) [![Contact Me](https://img.shields.io/badge/Mail-%236C4AFF?logo=protonmail&logoColor=white)](mailto:ethgray@proton.me)
 
 
-<h2 align="center"> Connect with me</h2>
-<p align="center">
-    <a href="mailto: ethgray@proton.me"><img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn-1.webcatalog.io%2Fcatalog%2Fprotonmail%2Fprotonmail-icon.png&sp=1717001376Tf974180a03d8b3f80f5ad92c3887a0735b5e6358bacf32cce109f96a54dbb3a4" alt="Email me" width="40" height="40"/></a>
-    <a href="https://www.linkedin.com/in/ethan-gray-42aab81b5/" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-<hr />
-<h3 align="center">Languages and Tools:</h3>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-<p align="center">
-    <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora Linux" width="40" height="40"/> </a>
-    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> </a>
-    <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" width="40" height="40"/> </a>
-</p>
-<p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target ="_blank"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/> </a>
-</p>
-<h1 align="center">
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eef-g&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=nord" alt="Ethan's github stats" /></a>
-| <p align="center"><p>School project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g-archive&layout=donut&hide_border=false&title_color=b48ead&icon_color=b48ead&text_color=e5e9f0&bg_color=3b4252" alt="School project languages"/></a></p> | <p align="center"><p>Personal project languages</p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&layout=donut&hide_border=false&title_color=b48ead&icon_color=b48ead&text_color=e5e9f0&bg_color=3b4252" alt="Personal project languages"/></a></p> |
-| ------------- | ------------- |
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eef-g&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eef-g&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=eef-g&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
